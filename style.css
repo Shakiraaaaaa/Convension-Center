@@ -1,0 +1,31 @@
+body
+{
+font-family: 'Poppins', sans-serif !important;
+}
+
+.book-button
+{
+background-image: linear-gradient(#FF589B,#FF136F);
+border: none;
+color: white;
+padding: 10px 50px;
+border-radius: 5px;
+margin-top: 5px;
+}
+
+.package-button
+{
+background-image: linear-gradient(#FF589B,#FF136F);
+border: none;
+color: white;
+padding: 10px 25px;
+border-radius: 5px;
+margin-top: 5px;
+align-items: center;
+}
+
+@media screen and (max-height: 688px) {
+.carousel-item {
+height: 100%;
+width: 100%;
+}}
